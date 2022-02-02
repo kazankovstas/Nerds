@@ -1,0 +1,21 @@
+.card__title {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 18px;
+  line-height: 1.66;
+  font-weight: 700;
+  color: var(--dark-color);
+  margin: 26px 0 12px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.card__title:hover {
+  color: #fb565a;
+  transition: 0.3s;
+}
+
+.card__title:active {
+  color: #000000;
+  opacity: 0.3;
+  transition: 0.3s;
+}

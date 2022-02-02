@@ -1,0 +1,18 @@
+.card {
+  width: 360px;
+  min-height: 618px;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+
+.card:hover .card__browser {
+  opacity: 1;
+  transition: 0.4s;
+}
+
+.card:hover .card__discription {
+  opacity: 1;
+  transition: 0.4s;
+}

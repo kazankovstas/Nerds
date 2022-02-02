@@ -1,0 +1,5 @@
+.footer__image {
+  display: block;
+  margin: 50% 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,12 @@
+.description__title {
+  margin: 78px 0 25px;
+  max-width: 538px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-weight: 500;
+  /* font-size: 55px; */
+  font-size: calc(36px + 9 * (100vw / 1440));
+  line-height: 1;
+  color: var(--dark-color);
+  grid-column: 1/2;
+  grid-row: 1/2;
+}

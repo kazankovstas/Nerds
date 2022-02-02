@@ -1,0 +1,10 @@
+.card__browser {
+  min-height: 40px;
+  width: 360px;
+  background-image: url(../../../images/card/shape.png);
+  opacity: 12%;
+}
+
+.card__browser:hover {
+  opacity: 1;
+}

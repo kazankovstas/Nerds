@@ -1,0 +1,8 @@
+.advantages__description-list {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(2, auto);
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 4/5;
+}

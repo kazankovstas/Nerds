@@ -1,0 +1,8 @@
+.footer__title {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 36px;
+  line-height: 1;
+  font-weight: 700;
+  color: var(--dark-color);
+  margin: 0 0 10px 0;
+}

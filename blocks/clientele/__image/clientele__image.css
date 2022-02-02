@@ -1,0 +1,11 @@
+.clientele__image {
+  opacity: 0.2;
+}
+
+.clientele__image:hover {
+  opacity: 1;
+}
+
+.clientele__image:active {
+  opacity: 0.1;
+}

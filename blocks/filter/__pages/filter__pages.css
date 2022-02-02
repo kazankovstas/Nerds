@@ -1,0 +1,9 @@
+.filter__pages {
+  grid-column: 2;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(3, 50px) 260px;
+  gap: 11px;
+}

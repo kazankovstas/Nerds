@@ -1,0 +1,9 @@
+.filter__title {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 18px;
+  line-height: 1.66;
+  font-weight: 700;
+  color: var(--dark-color);
+  margin: 0;
+  text-transform: uppercase;
+}

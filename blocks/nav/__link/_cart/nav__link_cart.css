@@ -1,0 +1,8 @@
+.nav__link_cart::before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background: url(../../../../images/cart-icon.png);
+  margin-right: 24.84px;
+}

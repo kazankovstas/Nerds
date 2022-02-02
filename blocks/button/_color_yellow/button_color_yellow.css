@@ -1,0 +1,13 @@
+.button_color_yellow {
+  background-color: var(--basic-yellow);
+}
+
+.button_color_yellow:hover {
+  background-color: var(--hover-yellow);
+}
+
+.button_color_yellow:active {
+  background-color: var(--active-yellow);
+  box-shadow: 0 3px 0 0;
+  color: rgba(255, 255, 255, 0.3);
+}

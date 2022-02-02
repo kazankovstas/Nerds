@@ -1,0 +1,25 @@
+.advantages__item {
+  display: grid;
+  grid-template-columns: min-content auto;
+  grid-column-gap: 15px;
+  align-items: center;
+  grid-column: 1/2;
+  margin-bottom: 20px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--advantages-color);
+}
+
+.advantages__item:last-child {
+  margin: 0;
+}
+
+.advantages__item::before {
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 3px;
+  background-color: var(--basic-red);
+}

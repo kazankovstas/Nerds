@@ -1,0 +1,8 @@
+.contacts__adress {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.125;
+  font-weight: 400;
+  color: var(--contact-adress);
+  margin: 0 0 17.29px 50px;
+}

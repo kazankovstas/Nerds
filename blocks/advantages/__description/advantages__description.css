@@ -1,0 +1,8 @@
+.advantages__description {
+  margin: 0 0 10px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 45px;
+  line-height: 1.42;
+  font-weight: 700;
+  color: var(--dark-color);
+}

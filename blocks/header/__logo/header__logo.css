@@ -1,0 +1,13 @@
+.header__logo {
+  display: inline-block;
+  margin: 0;
+  transition: 0.3s;
+}
+
+.header__logo:hover {
+  opacity: 0.7;
+}
+
+.header__logo:active {
+  opacity: 0.3;
+}

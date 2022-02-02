@@ -1,0 +1,11 @@
+.clientele {
+  width: 1159px;
+  height: 184px;
+  align-items: center;
+  justify-items: center;
+  margin: 73px auto 80px;
+  border-top: 2px solid var(--header-background);
+  border-bottom: 2px solid var(--header-background);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}

@@ -1,0 +1,6 @@
+.advantages__image {
+  display: inline-block;
+  grid-column: 3/4;
+  grid-row: 1/2;
+  margin: 39px 0 37px;
+}

@@ -1,0 +1,71 @@
+/* root */
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/body/body.css);
+@import url(../blocks/page/page.css);
+/* fonts */
+@import url(../fonts/roboto.css);
+/* link */
+@import url(../blocks/link/link.css);
+/* button */
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_large/button_large.css);
+@import url(../blocks/button/_color_red/button_color_red.css);
+@import url(../blocks/button/_color_green/button_color_green.css);
+@import url(../blocks/button/_color_yellow/button_color_yellow.css);
+@import url(../blocks/button/_contacts/button_contacts.css);
+/* nav */
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__link/nav__link.css);
+@import url(../blocks/nav/__link/_current/nav__link_current.css);
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+/* description */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+@import url(../blocks/description/__image/description__image.css);
+@import url(../blocks/description/__container/description__container.css);
+/* services */
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__list/servises__list.css);
+@import url(../blocks/services/__title/servises__title.css);
+@import url(../blocks/services/__description/servises__description.css);
+/* advantages */
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__title/advantages__title.css);
+@import url(../blocks/advantages/__subtitle/advantages__subtitle.css);
+@import url(../blocks/advantages/__paragraph/advantages__paragraph.css);
+@import url(../blocks/advantages/__list/advantages__list.css);
+@import url(../blocks/advantages/__item/advantages__item.css);
+@import url(../blocks/advantages/__image/advantages__image.css);
+@import url(../blocks/advantages/__description-list/advantages__description-list.css);
+@import url(../blocks/advantages/__elements/advantages__elements.css);
+@import url(../blocks/advantages/__termin/advantages__termin.css);
+@import url(../blocks/advantages/__description/advantages__description.css);
+/* clientele */
+@import url(../blocks/clientele/clientele.css);
+@import url(../blocks/clientele/__image/clientele__image.css);
+/* contacts */
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__info/contacts__info.css);
+@import url(../blocks/contacts/__title/contacts__title.css);
+@import url(../blocks/contacts/__adress/contacts__adress.css);
+@import url(../blocks/contacts/__marker/contacts__marker.css);
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__subtitle/footer__subtitle.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__image/footer__image.css);
+
+@import url(../blocks/nav/__link/_cart/nav__link_cart.css);
+/* visually-hidden */
+@import url(../blocks/visually-hidden/visually-hidden.css);
+/* FORM */
+@import url(../blocks/form.css);

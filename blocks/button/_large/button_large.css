@@ -1,0 +1,14 @@
+.button_large {
+  width: 240px;
+  background-color: var(--basic-red);
+  grid-column: 1/2;
+  grid-row: 3/3;
+}
+
+.button_large:hover {
+  background-color: var(--hover-red);
+}
+
+.button_large:active {
+  background-color: var(--active-red);
+}

@@ -1,0 +1,10 @@
+.advantages {
+  max-width: 1174px;
+  margin: 39px auto 73px;
+  display: grid;
+  /* grid-template-columns: 1fr 360px; */
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 196px 89px 1fr;
+  column-gap: 40px;
+  border-top: 2px solid var(--header-background);
+}

@@ -1,0 +1,21 @@
+.footer__link {
+  width: 81px;
+  height: 81px;
+  border-radius: 50%;
+  background-color: var(--gray-color);
+  margin-right: 9px;
+  transition: 0.3s;
+}
+
+.footer__link:last-child {
+  margin: 0;
+}
+
+.footer__link:hover {
+  background-color: var(--hover-red);
+  cursor: pointer;
+}
+
+.footer__link:active {
+  background-color: var(--active-red);
+}

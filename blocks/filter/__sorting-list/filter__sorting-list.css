@@ -1,0 +1,8 @@
+.filter__sorting-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(3, max-content);
+  gap: 25px;
+}

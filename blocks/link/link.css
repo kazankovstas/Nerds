@@ -1,0 +1,16 @@
+.link {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: var(--basic-black);
+  transition: 0.3s;
+}
+
+.link:hover {
+  color: var(--basic-red);
+}
+
+.link:active {
+  color: var(--basic-black);
+  opacity: 0.3;
+}

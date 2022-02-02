@@ -1,0 +1,11 @@
+.card__discription {
+  width: 360px;
+  height: 231px;
+  position: absolute;
+  bottom: 0;
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0;
+}

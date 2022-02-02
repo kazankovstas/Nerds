@@ -1,0 +1,67 @@
+/* root */
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/body/body.css);
+@import url(../blocks/page/page.css);
+/* fonts */
+@import url(../fonts/roboto.css);
+/* link */
+@import url(../blocks/link/link.css);
+/* button */
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_large/button_large.css);
+@import url(../blocks/button/_color_red/button_color_red.css);
+@import url(../blocks/button/_color_green/button_color_green.css);
+@import url(../blocks/button/_color_yellow/button_color_yellow.css);
+@import url(../blocks/button/_contacts/button_contacts.css);
+@import url(../blocks/button/__filter/button__filter.css);
+/* nav */
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__link/nav__link.css);
+@import url(../blocks/nav/__link/_cart/nav__link_cart.css);
+@import url(../blocks/nav/__link/_current/nav__link_current.css);
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__title/header__title.css);
+/* catalog */
+@import url(../blocks/catalog/catalog.css);
+@import url(../blocks/catalog/__list/catalog__list.css);
+@import url(../blocks/catalog/__item/catalog__item.css);
+/* card */
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__browser/card__browser.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__discription/card__discription.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
+/* contacts */
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__info/contacts__info.css);
+@import url(../blocks/contacts/__title/contacts__title.css);
+@import url(../blocks/contacts/__adress/contacts__adress.css);
+@import url(../blocks/contacts/__marker/contacts__marker.css);
+/* filter */
+@import url(../blocks/filter/__title/filter__title.css);
+@import url(../blocks/filter/__pages/filter__pages.css);
+@import url(../blocks/filter/__page/filter__page.css);
+@import url(../blocks/filter/__page/_next/filter__page_next.css);
+@import url(../blocks/filter/__page/_current/filter__page_current.css);
+@import url(../blocks/filter/__wrapper/filter__wrapper.css);
+@import url(../blocks/filter/__sorting-list/filter__sorting-list.css);
+@import url(../blocks/filter/__sorting-item/filter__sorting-item.css);
+@import url(../blocks/filter/__btn/filter__btn.css);
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__subtitle/footer__subtitle.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__image/footer__image.css);
+/* СТИЛИ */
+@import url(../blocks/stylescss/stylescss.css);
+/* visually-hidden */
+@import url(../blocks/visually-hidden/visually-hidden.css);
