@@ -3,6 +3,7 @@
 @import url(../blocks/root/root.css);
 @import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/main/main.css);
 /* fonts */
 @import url(../fonts/roboto.css);
 /* link */
@@ -56,6 +57,7 @@
 @import url(../blocks/contacts/__marker/contacts__marker.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__info/footer__info.css);
 @import url(../blocks/footer/__title/footer__title.css);
 @import url(../blocks/footer/__subtitle/footer__subtitle.css);

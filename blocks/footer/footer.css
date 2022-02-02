@@ -1,8 +1,5 @@
 .footer {
-  max-width: 1060px;
-  margin: 0 auto;
-  padding-bottom: 68px;
-  display: grid;
-  grid-template-columns: 261px 1fr;
-  column-gap: 139px;
+  background-color: white;
+  width: 100%;
+  padding-top: 66px;
 }
