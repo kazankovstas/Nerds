@@ -1,4 +1,4 @@
-.description__subtitle {
+.slider__subtitle {
   margin: 0 0 38px;
   max-width: 400px;
   font-family: "Roboto", "Arial", sans-serif;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .description__subtitle {
+  .slider__subtitle {
     padding: 195px 0 0;
   }
 }

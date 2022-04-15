@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding-bottom: 68px;
   display: grid;
-  grid-template-columns: 261px 1fr;
+  grid-template-columns: auto 1fr;
   column-gap: 139px;
   background-color: white;
 }

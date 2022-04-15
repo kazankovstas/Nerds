@@ -19,16 +19,17 @@
 @import url(../blocks/nav/nav.css);
 @import url(../blocks/nav/__list/nav__list.css);
 @import url(../blocks/nav/__link/nav__link.css);
+@import url(../blocks/nav/__link/_cart/nav__link_cart.css);
 @import url(../blocks/nav/__link/_current/nav__link_current.css);
 /* header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-/* description */
-@import url(../blocks/description/description.css);
-@import url(../blocks/description/__title/description__title.css);
-@import url(../blocks/description/__subtitle/description__subtitle.css);
-@import url(../blocks/description/__image/description__image.css);
-@import url(../blocks/description/__container/description__container.css);
+/* slider */
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__title/slider__title.css);
+@import url(../blocks/slider/__subtitle/slider__subtitle.css);
+@import url(../blocks/slider/__image/slider__image.css);
+@import url(../blocks/slider/__container/slider__container.css);
 /* services */
 @import url(../blocks/services/services.css);
 @import url(../blocks/services/__list/servises__list.css);
@@ -69,5 +70,9 @@
 @import url(../blocks/nav/__link/_cart/nav__link_cart.css);
 /* visually-hidden */
 @import url(../blocks/visually-hidden/visually-hidden.css);
-/* FORM */
-@import url(../blocks/form.css);
+/* keyframes */
+@import url(../blocks/keyframes/keyframes.css);
+/* Форма */
+@import url(../blocks/form/form.css);
+/* popup */
+@import url(../blocks/popup/popup.css);

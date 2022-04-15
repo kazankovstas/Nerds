@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   list-style-type: none;
-  display: grid;
-  grid-template-columns: repeat(3, 50px) 260px;
+  display: flex;
+  flex-wrap: wrap;
   gap: 11px;
 }

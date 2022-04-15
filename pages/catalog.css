@@ -63,7 +63,11 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__image/footer__image.css);
-/* СТИЛИ */
-@import url(../blocks/stylescss/stylescss.css);
 /* visually-hidden */
 @import url(../blocks/visually-hidden/visually-hidden.css);
+/* keyframes */
+@import url(../blocks/keyframes/keyframes.css);
+/* Форма */
+@import url(../blocks/form/form.css);
+/* popup */
+@import url(../blocks/popup/popup.css);

@@ -1,6 +1,6 @@
 .clientele {
   width: 1159px;
-  height: 184px;
+  min-height: 184px;
   align-items: center;
   justify-items: center;
   margin: 73px auto 80px;

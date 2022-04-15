@@ -1,5 +1,6 @@
 .contacts__marker {
   position: absolute;
-  top: 48px;
-  right: 327px;
+  top: 134px;
+  right: 546px;
+  cursor: pointer;
 }

@@ -1,7 +1,0 @@
-.description__container {
-  margin: 0 auto;
-  max-width: 1157px;
-  display: grid;
-  grid-template-columns: minmax(240px, 397px) 1fr;
-  grid-template-rows: 214px 87px 130px;
-}

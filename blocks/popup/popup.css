@@ -1,0 +1,98 @@
+/* POPUP */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  display: none;
+  overflow-y: auto;
+  overflow-x: hidden;
+  transition: all 0.6s ease 0s;
+}
+
+.popup_opened {
+  display: flex;
+  animation-name: bounce;
+  animation-duration: 0.6s;
+}
+
+.popup__container {
+  width: 760px;
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 63px 100px 84px;
+  box-shadow: 0 30px 50px rgba(0 0 0 / 0.7);
+}
+
+.popup__close {
+  position: absolute;
+  top: -8px;
+  right: -14px;
+  width: 21px;
+  height: 21px;
+  background: url(../../images/popup-close.svg) no-repeat;
+  border: none;
+  transition: 0.4s;
+  cursor: pointer;
+  opacity: 0.3;
+}
+
+.popup__close:hover {
+  opacity: 1;
+}
+
+.popup__close:active {
+  opacity: 0.1;
+}
+
+.popup__title {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 45px;
+  line-height: 1.17;
+  font-weight: 700;
+  padding: 0;
+  margin: 0 0 37px 0;
+}
+
+/* ПОПАП КАРТЫ */
+.popup-map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  transition: all 0.6s ease 0s;
+  display: none;
+  background-color: rgba(0 0 0 / 0.7);
+}
+
+.map_open {
+  display: flex;
+  animation-name: bounce;
+  animation-duration: 0.6s;
+}
+
+.popup-map__container {
+  position: relative;
+  width: 1440px;
+  height: 640px;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 30px 50px rgba(0 0 0 / 0.7);
+}
+
+.modal-error {
+  display: block;
+  animation: shake 100ms 3;
+}
